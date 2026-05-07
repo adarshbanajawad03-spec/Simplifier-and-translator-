@@ -1,0 +1,12 @@
+streamlit
+openai
+google-generativeai
+python-dotenv
+pdfplumber
+PyPDF2
+python-docx
+pytesseract
+Pillow
+langdetect
+deep-translator
+textstat
